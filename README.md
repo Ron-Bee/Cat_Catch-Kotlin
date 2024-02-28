@@ -14,7 +14,7 @@ Installation
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/Ron-Bee/cat-catch-game.git
+git clone https://github.com/Ron-Bee/Cat_Catch-Kotlin.git
 Open the project directory:
 bash
 Copy code
